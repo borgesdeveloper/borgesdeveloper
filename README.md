@@ -3,7 +3,7 @@
 
 
 
-Possuo experiência com Cloud: 
+Exp. aws: 
 
 - AWS - EKS
 - AWS - ECR
