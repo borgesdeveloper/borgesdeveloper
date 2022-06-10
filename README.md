@@ -3,6 +3,9 @@
 
 
 
+Olá, me chamo Gabriel Borges, tenho 31 anos e há 15 destinado a programação, desenvolvimento de software e arquitetura.
+
+
 Exp. aws: 
 
 - AWS - EKS
