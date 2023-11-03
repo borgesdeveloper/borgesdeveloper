@@ -1,2 +1,1 @@
-
-## Trabalhe, sirva, seja forte e não encha o saco.
+Trabalhe, sirva, seja forte e não encha o saco.
